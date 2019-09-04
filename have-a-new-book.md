@@ -4,7 +4,7 @@
 
 this is a math book
 
-1. ![](/assets/微信图片_20190612204321.jpg)
+1. ![](/assets/5391377fa8b9d.jpg)
 
 
 
