@@ -10,7 +10,7 @@
 ```
 
 
-| Tables    | Are   |Cool|
+| Tables    | Are   |Cool| 123
 | ----------|;-----;|---;|
 |col 3 is   |       |    |
 |           |       |    |
